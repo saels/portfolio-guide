@@ -1,7 +1,6 @@
 # 💼 Portfolio Guide
 
-Welcome to my portafolio. 
-Here you'll discover a collection of projects I've worked on, including my personal insights, conclusions, and lessons learned.
+Welcome to my portafolio. Here you'll discover a collection of projects I've worked on, including my personal insights, conclusions, and lessons learned.
 
 ## Index
 - [📲 App Prototypes](#-app-prototypes)
