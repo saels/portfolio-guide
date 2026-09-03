@@ -1,5 +1,7 @@
 # 💼 Portfolio Guide
 
+Welcome to my portafolio. Here you will find interesting projects I have worked on.
+
 ## Index
 - [📲 App Prototypes](#app-prototypes)
 - [🤖 Machine Learning](#machine-learning)
