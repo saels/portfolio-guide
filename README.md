@@ -8,8 +8,18 @@
 - [Agentic AI](#agentic-ai)
 - [AI Strategy & Governance](#ai-strategy-&-governance)
  
-# App Prototypes
-
+# 📲 App Prototypes
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
 # Machine Learning
 
 # Deep Learning
