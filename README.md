@@ -6,20 +6,9 @@
 - [Deep Learning](#deep-learning)
 - [Generative AI](#generative-ai)
 - [Agentic AI](#agentic-ai)
-- [AI Strategy & Governance](#ai-strategy-&-governance)
+- [AI Strategy and Governance](#ai-strategy-and-governance)
  
 # 📲 App Prototypes
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
 # Machine Learning
 
 # Deep Learning
@@ -28,4 +17,4 @@ a
 
 # Agentic AI
 
-# AI Strategy & Governance
+# AI Strategy and Governance
