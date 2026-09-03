@@ -7,8 +7,8 @@ Welcome to my portafolio. Here you will find interesting projects I have worked 
 - [🤖 Machine Learning](#-machine-learning)
 - [🧠 Deep Learning](#-deep-learning)
 - [🚀 Generative AI](#-generative-ai)
-- [🧑‍💻 Agentic AI](#agentic-ai)
-- [📊 AI Strategy and Governance](#-ai-strategy-and-governance)
+- [🧑‍💻 Agentic AI](#%E2%80%8D-agentic-ai)
+- [📊 AI Strategy & Governance](#-ai-strategy--governance)
  
 ## 📲 App Prototypes
 
