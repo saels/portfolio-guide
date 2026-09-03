@@ -1,4 +1,4 @@
-## 💼 Portfolio Guide
+# 💼 Portfolio Guide
 
 ## Index
 - [📲 App Prototypes](#app-prototypes)
@@ -8,14 +8,14 @@
 - [🧑‍💻 Agentic AI](#agentic-ai)
 - [📊 AI Strategy and Governance](#ai-strategy-and-governance)
  
-# 📲 App Prototypes
+## 📲 App Prototypes
 
-# 🤖 Machine Learning
+## 🤖 Machine Learning
 
-# 🧠 Deep Learning
+## 🧠 Deep Learning
 
-# 🚀 Generative AI
+## 🚀 Generative AI
 
-# 🧑‍💻 Agentic AI
+## 🧑‍💻 Agentic AI
 
-# 📊 AI Strategy and Governance
+## 📊 AI Strategy and Governance
