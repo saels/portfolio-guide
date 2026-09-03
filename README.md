@@ -4,9 +4,9 @@
 - [📲 App Prototypes](#app-prototypes)
 - [🤖 Machine Learning](#machine-learning)
 - [🧠 Deep Learning](#deep-learning)
-- [🚀Generative AI](#generative-ai)
+- [🚀 Generative AI](#generative-ai)
 - [🧑‍💻 Agentic AI](#agentic-ai)
-- [📊AI Strategy and Governance](#ai-strategy-and-governance)
+- [📊 AI Strategy and Governance](#ai-strategy-and-governance)
  
 # 📲 App Prototypes
 
